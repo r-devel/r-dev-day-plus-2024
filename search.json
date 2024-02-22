@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "The organizers of R Dev Day @ PLUS are dedicated to providing a harassment-free event experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).\nAll participants at R Dev Day @ PLUS are required to agree to the following code of conduct.\nThe code of conduct applies to all dev day activities including social events. It extends to event-specific exchanges on social media, for instance posts tagged with the identifier of the dev day (#RDevDayPLUS2024) and replies to such posts.\nOrganizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all."
+  },
+  {
+    "objectID": "code-of-conduct.html#expected-behaviour",
+    "href": "code-of-conduct.html#expected-behaviour",
+    "title": "Code of Conduct",
+    "section": "Expected Behaviour",
+    "text": "Expected Behaviour\nAll event participants agree to:\n\nBe considerate in language and actions, and respect the boundaries of fellow participants.\nRefrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behaviour for more details.\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled What To Do If You Witness or Are Subject To Unacceptable Behaviour for more details."
+  },
+  {
+    "objectID": "code-of-conduct.html#unacceptable-behaviour",
+    "href": "code-of-conduct.html#unacceptable-behaviour",
+    "title": "Code of Conduct",
+    "section": "Unacceptable Behaviour",
+    "text": "Unacceptable Behaviour\nBehaviour that is unacceptable includes, but is not limited to:\n\nStalking\nDeliberate intimidation\nUnwanted photography or recording\nSustained or willful disruption of talks or other events\nUse of sexual or discriminatory imagery, comments, or jokes\nOffensive comments related to age, gender, sexual orientation, disability, race or religion\nInappropriate physical contact, which can include grabbing, or massaging or hugging without consent.\nUnwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.\n\nIf you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all event attendees you should stop.\nAttendees who behave in a manner deemed inappropriate are subject to actions listed under Procedure for Code of Conduct Violations."
+  },
+  {
+    "objectID": "code-of-conduct.html#additional-requirements-for-dev-day-material",
+    "href": "code-of-conduct.html#additional-requirements-for-dev-day-material",
+    "title": "Code of Conduct",
+    "section": "Additional Requirements for Dev Day Material",
+    "text": "Additional Requirements for Dev Day Material\nPresentation slides and documents created for, or during, the dev day should not contain offensive or sexualised material."
+  },
+  {
+    "objectID": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
+    "href": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
+    "title": "Code of Conduct",
+    "section": "Procedure for Code of Conduct Violations",
+    "text": "Procedure for Code of Conduct Violations\nThe organizing team reserves the right to determine the appropriate response for all code of conduct violations. Potential responses include:\n\na formal warning to stop harassing behaviour\ncancellation or early termination of presentations or other contributions to the programme\nexpulsion from the dev day\nremoval/rejection of dev day contributions\nremoval of sponsorship acknowledgement, without return of sponsorship contribution"
+  },
+  {
+    "objectID": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
+    "href": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
+    "title": "Code of Conduct",
+    "section": "What To Do If You Witness or Are Subject To Unacceptable Behaviour",
+    "text": "What To Do If You Witness or Are Subject To Unacceptable Behaviour\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct during the dev day, even if they seem inconsequential.\nReport code of conduct violations via the incident report form. Reports will be handled by the organizing team; if the report concerns someone on the team, please contact other members of the team directly.\nWe will take all reports by R Dev Day @ PLUS participants seriously. This includes incidents outside our spaces and at any point in time. The organizing team reserve the right to exclude people from the dev day based on their past behaviour, including behaviour outside R Dev Day @ PLUS spaces and behaviour towards people who are not part of the dev day.\nWe will respect confidentiality requests for the purpose of protecting targets of harassing behaviour. We will not name victims without their affirmative consent. Correspondence is handled confidentially and deleted after the case is resolved. All data is stored securely, access will be limited to the members of the organizing team who receive the report.\nThe organizing team will provide support to victims, which may include:\n\nproviding an escort,\ncontacting the on-campus security or off-campus emergency services,\n\nor otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the event. Assistance will only be provided with affirmative consent of the victim."
+  },
+  {
+    "objectID": "code-of-conduct.html#acknowledgements",
+    "href": "code-of-conduct.html#acknowledgements",
+    "title": "Code of Conduct",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nParts of the above text are licensed CC BY-SA 4.0. Credit to SRCCON. This code of conduct was based on that developed for useR! 2018 which was a revision of the code of conduct used at previous useR!s and also drew from rOpenSci’s code of conduct."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R Dev Day @ PLUS",
+    "section": "",
+    "text": "Friday July 12, 2024\nParis Lodron University of Salzburg (PLUS), Austria\n#RDevDayPLUS2024\nCollaborate on contributions to base R!\nAn R Dev Day will be held as a satellite event to useR! 2024. This will be an opportunity for novice and experienced contributors to work alongside members of the R Core Team on contributions to base R. Interested contributors are encouraged to self-nominate by March 24, 2024."
+  },
+  {
+    "objectID": "index.html#what-will-happen-at-the-r-dev-day",
+    "href": "index.html#what-will-happen-at-the-r-dev-day",
+    "title": "R Dev Day @ PLUS",
+    "section": "What will happen at the R Dev Day?",
+    "text": "What will happen at the R Dev Day?\nTasks will be prepared in the run-up to the event, but are likely to include:\n\nReviewing, analysing and fixing bugs reported on R’s Bugzilla.\nContributing to message translations via Weblate."
+  },
+  {
+    "objectID": "index.html#who-can-take-part",
+    "href": "index.html#who-can-take-part",
+    "title": "R Dev Day @ PLUS",
+    "section": "Who can take part?",
+    "text": "Who can take part?\nThe sprint will involve a mixture of invited and self-nominated participants, so that we have contributors at all experience levels.\nThe main criteria for participation is a good knowledge of R programming and a keen interest in contributing, as we hope participants continue to contribute after the event. The table below shows the type of knowledge/skills we expect participants to have\n\n\n\n\n\n\n\nSkills most will have\nSkills some will have\n\n\n\n\nWriting R functions\nProgramming in C\n\n\nDebugging R functions\nKnowledge of S3/S4 classes and methods\n\n\nWriting R help files\nExpertise in statistical methods in stats, splines\n\n\nUsing git/Subversion\nAble to build R from source\n\n\n\nOther specialist skills e.g. expertise in building Windows/MacOS GUIs or fluency in a language with a low percentage of translated messages on Weblate, would of course be welcome!\nIt will help if you have some experience in contributing to base R, but novice contributors will be mentored in the run-up to the event. There will also be a Contributing to R tutorial at useR! 2024, which we encourage novice contributors to attend.\nWe are keen to foster a diverse community of contributors. If you are a member of the R-Ladies, MiR, RainbowR, AfricaR, ArabR, AsiaR, or LatinR communities, or otherwise identify as part of an underrepresented group among R contributors, then we especially encourage you to self-nominate! To ensure a welcoming environment, we have a code of conduct in place."
+  },
+  {
+    "objectID": "index.html#apply-for-a-place",
+    "href": "index.html#apply-for-a-place",
+    "title": "R Dev Day @ PLUS",
+    "section": "Apply for a place",
+    "text": "Apply for a place\nAnyone one interested to attend the sprint is encouraged to self-nominate via the application form by Sunday March 24 (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that diversity and need-based scholarships are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is not required to participate in R Dev Day.\nParticipation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team."
+  },
+  {
+    "objectID": "index.html#practicalities",
+    "href": "index.html#practicalities",
+    "title": "R Dev Day @ PLUS",
+    "section": "Practicalities",
+    "text": "Practicalities\nThe sprint will be held in the Faculty of Natural and Life Sciences at PLUS, which is ~30 minutes from the useR! 2024 venue by public transport.\nSee the travel information on the PLUS website for more detail."
+  },
+  {
+    "objectID": "index.html#organizing-team",
+    "href": "index.html#organizing-team",
+    "title": "R Dev Day @ PLUS",
+    "section": "Organizing team",
+    "text": "Organizing team\nThis event is being organized by members of R Contribution Working Group in coordination with the R Core Team.\n\n\n  Heather Turner   RSE FellowAssociate Professor"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "R Dev Day @ PLUS",
+    "section": "Contact",
+    "text": "Contact\nFor queries about this event, please contact r-dev-day-plus-team@gaggle.email."
+  },
+  {
+    "objectID": "index.html#sponsors",
+    "href": "index.html#sponsors",
+    "title": "R Dev Day @ PLUS",
+    "section": "Sponsors",
+    "text": "Sponsors\nThe R Foundation is sponsoring venue hire and catering for this event.\nAs this is a satellite event to useR! 2024, we encourage any companies interested in providing further sponsorship to sponsor useR! 2024. Alternatively, anyone can donate to the R Foundation online."
+  }
+]

@@ -1,0 +1,1 @@
+Sitemap: https://contributor.r-project.org/r-dev-day-plus-2024/sitemap.xml
