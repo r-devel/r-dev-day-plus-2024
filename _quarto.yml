@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "R Dev Day @ PLUS"
+  navbar:
+    left: 
+      - href: code-of-conduct.qmd
+        text: Code of Conduct
+    right:
+      - icon: mastodon
+        href: https://mastodon.cloud/tags/RDevDayPLUS2024
+      - icon: twitter
+        href: https://twitter.com/hashtag/RDevDayPLUS2024?src=hashtag_click
+      - icon: github
+        href: https://github.com/r-devel/r-dev-day-plus-2024
+  page-navigation: true
+  favicon: media/favicon.png
+  twitter-card:
+    description: A 1-day meeting of R developers to work collaboratively on R core development, hosted at Paris Lodron University of Salzburg, July 12, 2024.
+  open-graph: true  
+  site-url: https://contributor.r-project.org/r-dev-day-plus-2024
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
+

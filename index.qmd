@@ -1,0 +1,88 @@
+---
+title: "R Dev Day @ PLUS"
+---
+
+**Friday July 12, 2024\
+Paris Lodron University of Salzburg (PLUS), Austria\
+#RDevDayPLUS2024**
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
+```
+
+*Collaborate on contributions to base R!*
+
+An R Dev Day will be held as a satellite event to [useR! 2024](https://user2024.r-project.org/).
+This will be an opportunity for novice and experienced contributors to work alongside members of the R Core Team on contributions to base R.
+Interested contributors are encouraged to self-nominate by **March 24, 2024**.
+
+<center>![The outside of the Faculty of Natural and Life Sciences building: a large, modern building with several glass-house style atriums.](NLW-Sommer-aussen-3-400.jpg)<br> <small>© Universität Salzburg. PLUS<br><br></small></center>
+
+## What will happen at the R Dev Day?
+
+Tasks will be prepared in the run-up to the event, but are likely to include:
+
+ * Reviewing, analysing and fixing bugs reported on R’s [Bugzilla](https://bugs.r-project.org/).
+ * Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
+
+## Who can take part?
+
+The sprint will involve a mixture of invited and self-nominated participants, so that we have contributors at all experience levels.
+
+The main criteria for participation is a good knowledge of R programming and a keen interest in contributing, as we hope participants continue to contribute after the event. The table below shows the type of knowledge/skills we expect participants to have
+
+| Skills most will have |                   Skills some will have                    |
+|:------------------------:|:--------------------------------------------:|
+|  Writing R functions  |                      Programming in C                      |
+| Debugging R functions |           Knowledge of S3/S4 classes and methods           |
+| Writing R help files  | Expertise in statistical methods in **stats**, **splines** |
+| Using git/Subversion  |                Able to build R from source                 |
+
+Other specialist skills e.g. expertise in building Windows/MacOS GUIs or fluency in a language with a low percentage of translated messages on [Weblate](https://translate.rx.studio/projects/r-project/), would of course be welcome!
+
+It will help if you have some experience in contributing to base R, but novice contributors will be mentored in the run-up to the event. There will also be a *Contributing to R* tutorial at useR! 2024, which we encourage novice contributors to attend.
+
+We are keen to foster a diverse community of contributors. If you are a member of the [R-Ladies](https://rladies.org/), [MiR](https://mircommunity.com/), [RainbowR](https://rainbowr.netlify.app/), [AfricaR](https://africa-r.org/), [ArabR](https://github.com/ARab-R), [AsiaR](https://bit.ly/join_asiaR_slack), or [LatinR](https://latin-r.com/) communities, or otherwise identify as part of an underrepresented group among R contributors, then we especially encourage you to self-nominate! To ensure a welcoming environment, we have a [code of conduct](/code-of-conduct.html) in place.
+
+## Apply for a place
+
+Anyone one interested to attend the sprint is encouraged to self-nominate via the [application form](https://rfoundation.limequery.com/834329) by **Sunday March 24** (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.
+
+Thanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that [diversity and need-based scholarships](https://events.linuxfoundation.org/user/attend/scholarships/) are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is **not** required to participate in R Dev Day.
+
+Participation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team. 
+
+## Practicalities
+
+The sprint will be held in the [Faculty of Natural and Life Sciences](https://www.plus.ac.at/natural-and-life-sciences/?lang=en) at PLUS, which is ~30 minutes from the useR! 2024 venue by public transport.
+
+See the [travel information](https://www.plus.ac.at/natural-and-life-sciences/contact-travel-information-directions/?lang=en) on the PLUS website for more detail.
+
+## Organizing team
+
+This event is being organized by members of [R Contribution Working Group](https://contributor.r-project.org/working-group) in coordination with the R Core Team.
+
+::: people-gallery
+::: {#person1}
+```{r, results = "asis"}
+person_info(name = "Heather Turner",
+            affiliation = "RSE Fellow<br>Associate Professor",
+            pic = "media/heather_turner.jpg",
+            alt = "Headshot of Heather Turner. She is a white woman in her 40s with long dark hair and wears glasses.",
+            website = "https://warwick.ac.uk/heatherturner",
+            email = "h.turner.1@warwick.ac.uk")
+```
+:::
+:::
+
+## Contact
+
+For queries about this event, please contact [r-dev-day-plus-team\@gaggle.email](mailto:r-dev-day-plus-team@gaggle.email).
+
+## Sponsors
+
+[The R Foundation](https://www.r-project.org/foundation/) is sponsoring venue hire and catering for this event. 
+
+As this is a satellite event to useR! 2024, we encourage any companies interested in providing further sponsorship to [sponsor useR! 2024](https://events.linuxfoundation.org/user/sponsor/). 
+Alternatively, anyone can [donate to the R Foundation](https://www.r-project.org/foundation/donations.html) online.
