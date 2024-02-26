@@ -23,7 +23,7 @@ Interested contributors are encouraged to self-nominate by **March 24, 2024**.
 
 Tasks will be prepared in the run-up to the event, but are likely to include:
 
- * Reviewing, analysing and fixing bugs reported on R’s [Bugzilla](https://bugs.r-project.org/).
+ * Reviewing, analysing and fixing bugs in code or documentation reported on R’s [Bugzilla](https://bugs.r-project.org/).
  * Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
 
 ## Who can take part?
