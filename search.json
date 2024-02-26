@@ -60,7 +60,7 @@
     "href": "index.html#what-will-happen-at-the-r-dev-day",
     "title": "R Dev Day @ PLUS",
     "section": "What will happen at the R Dev Day?",
-    "text": "What will happen at the R Dev Day?\nTasks will be prepared in the run-up to the event, but are likely to include:\n\nReviewing, analysing and fixing bugs reported on R’s Bugzilla.\nContributing to message translations via Weblate."
+    "text": "What will happen at the R Dev Day?\nTasks will be prepared in the run-up to the event, but are likely to include:\n\nReviewing, analysing and fixing bugs in code or documentation reported on R’s Bugzilla.\nContributing to message translations via Weblate."
   },
   {
     "objectID": "index.html#who-can-take-part",
