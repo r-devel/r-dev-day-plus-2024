@@ -65,7 +65,7 @@ participant_info <- function(name = "A Person",
     if (!is.null(get(x))){
       check_url(get(x))
       y <- ifelse(x == "link", "link-45deg", x)
-      hyperlink <- a(paste('{{< bi', y, ' size=1.3em color=#000000 >}}'),
+      hyperlink <- a(HTML(paste('{{< bi', y, ' size=1.3em color=#000000 >}}')),
                      href = get(x), target = "_blank", 
                      style = "text-decoration:none")
       res <- c(res, list(hyperlink))
