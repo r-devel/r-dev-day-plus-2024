@@ -32,6 +32,7 @@ participant_info <- function(name = "A Person",
                              affiliation = NULL,
                              pic = "/media/reshot-icon-human-person-6P2MCTEQ95.svg",
                              alt = "Generic person icon",
+                             email = NULL,
                              web = NULL, # main website
                              link = NULL, # personal website
                              newspaper = NULL, #blog else newspaper
@@ -53,12 +54,18 @@ participant_info <- function(name = "A Person",
   if (!is.null(affiliation)) {
     res <- c(res, list(paste(affiliation, '<br>')))
   }
+  if (!is.null(email)) {
+    hyperlink <- a(paste('{{< bi envelope size=1.3em color=#000000 >}}'),
+                   href = paste0("mailto:", email))
+    res <- c(res, list(hyperlink))
+  }
   links <- c("link", "newspaper", "linkedin", "facebook",
              "mastodon", "twitter", "github")
   for (x in links) {
     if (!is.null(get(x))){
       check_url(get(x))
-      hyperlink <- a(paste('{{< bi', x, ' size=1.3em color=#000000 >}}'),
+      y <- ifelse(x == "link", "link-45deg", x)
+      hyperlink <- a(paste('{{< bi', y, ' size=1.3em color=#000000 >}}'),
                      href = get(x), target = "_blank", 
                      style = "text-decoration:none")
       res <- c(res, list(hyperlink))

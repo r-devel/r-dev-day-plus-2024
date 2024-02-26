@@ -64,17 +64,38 @@ See the [travel information](https://www.plus.ac.at/natural-and-life-sciences/co
 This event is being organized by members of [R Contribution Working Group](https://contributor.r-project.org/working-group) in coordination with the R Core Team.
 
 ::: people-gallery
-::: {#person1}
+::: {#person}
 ```{r, results = "asis"}
-person_info(name = "Heather Turner",
-            affiliation = "RSE Fellow<br>Associate Professor",
-            pic = "media/heather_turner.jpg",
-            alt = "Headshot of Heather Turner. She is a white woman in her 40s with long dark hair and wears glasses.",
-            website = "https://warwick.ac.uk/heatherturner",
-            email = "h.turner.1@warwick.ac.uk")
+participant_info(name = "Heather Turner",
+                 affiliation = "University of Warwick",
+                 pic = "media/heather_turner.jpg",
+                 alt = "Headshot of Heather Turner. She is a white woman in her 40s with long dark hair and wears glasses.",
+                 email = "h.turner.1@warwick.ac.uk",
+                 web = "https://warwick.ac.uk/heatherturner",
+                 link = "https://warwick.ac.uk/heatherturner",
+                 github = "https://github.com/hturner/",
+                 mastodon = "https://fosstodon.org/@HeathrTurnr",
+                 linkedin = "https://uk.linkedin.com/in/heathrturnr")
 ```
 :::
+
+::: {#person}
+```{r, results = "asis"}
+participant_info(name = "Shannon Pileggi",
+                 affiliation = "The Prostate Cancer Clinical Trials Consortium",
+                 pic = "media/shannon_pileggi.jpg",
+                 alt = "Headshot of Shannon Pileggi",
+                 email = "shannon.pileggi@gmail.com",
+                 web = "https://www.pipinghotdata.com/",
+                 link = "https://www.pipinghotdata.com/",
+                 github = "https://github.com/shannonpileggi/",
+                 mastodon = "https://fosstodon.org/@PipingHotData",
+                 linkedin = "https://www.linkedin.com/in/shannon-m-pileggi/")
+```
 :::
+
+:::
+
 
 ## Contact
 
