@@ -55,7 +55,7 @@ participant_info <- function(name = "A Person",
     res <- c(res, list(paste(affiliation, '<br>')))
   }
   if (!is.null(email)) {
-    hyperlink <- a(paste('{{< bi envelope size=1.3em color=#000000 >}}'),
+    hyperlink <- a(HTML(paste('{{< bi envelope size=1.3em color=#000000 >}}')),
                    href = paste0("mailto:", email))
     res <- c(res, list(hyperlink))
   }
