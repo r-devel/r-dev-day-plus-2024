@@ -51,6 +51,8 @@ Anyone one interested to attend the sprint is encouraged to self-nominate via th
 
 Thanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that [diversity and need-based scholarships](https://events.linuxfoundation.org/user/attend/scholarships/) are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is **not** required to participate in R Dev Day.
 
+We encourage people to self-nominate even if their attendance depends on other applications being successful (e.g. for useR! scholarship/presentation or visa).
+
 Participation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team. 
 
 ## Practicalities
