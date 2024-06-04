@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://contributor.r-project.org/r-dev-day-plus-2024/code-of-conduct.html</loc>
-    <lastmod>2024-02-26T14:15:57.424Z</lastmod>
+    <lastmod>2024-06-04T12:47:18.373Z</lastmod>
   </url>
   <url>
     <loc>https://contributor.r-project.org/r-dev-day-plus-2024/index.html</loc>
-    <lastmod>2024-02-26T14:15:57.424Z</lastmod>
+    <lastmod>2024-06-04T12:47:18.373Z</lastmod>
+  </url>
+  <url>
+    <loc>https://contributor.r-project.org/r-dev-day-plus-2024/participants/index.html</loc>
+    <lastmod>2024-06-04T12:47:18.377Z</lastmod>
   </url>
 </urlset>

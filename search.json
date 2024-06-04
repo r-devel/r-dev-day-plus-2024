@@ -74,7 +74,7 @@
     "href": "index.html#apply-for-a-place",
     "title": "R Dev Day @ PLUS",
     "section": "Apply for a place",
-    "text": "Apply for a place\nAnyone one interested to attend the sprint is encouraged to self-nominate via the application form by Sunday March 24 (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that diversity and need-based scholarships are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is not required to participate in R Dev Day.\nParticipation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team."
+    "text": "Apply for a place\nAnyone one interested to attend the sprint is encouraged to self-nominate via the application form by Sunday March 24 (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that diversity and need-based scholarships are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is not required to participate in R Dev Day.\nWe encourage people to self-nominate even if their attendance depends on other applications being successful (e.g. for useR! scholarship/presentation or visa).\nParticipation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team."
   },
   {
     "objectID": "index.html#practicalities",
@@ -103,5 +103,26 @@
     "title": "R Dev Day @ PLUS",
     "section": "Sponsors",
     "text": "Sponsors\nThe R Foundation is sponsoring venue hire and catering for this event.\nAs this is a satellite event to useR! 2024, we encourage any companies interested in providing further sponsorship to sponsor useR! 2024. Alternatively, anyone can donate to the R Foundation online."
+  },
+  {
+    "objectID": "participants/index.html",
+    "href": "participants/index.html",
+    "title": "Participants",
+    "section": "",
+    "text": "Tomas Kalibera  R Core \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa"
+  },
+  {
+    "objectID": "participants/index.html#r-core-team",
+    "href": "participants/index.html#r-core-team",
+    "title": "Participants",
+    "section": "",
+    "text": "Tomas Kalibera  R Core \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa"
+  },
+  {
+    "objectID": "participants/index.html#r-contributors",
+    "href": "participants/index.html#r-contributors",
+    "title": "Participants",
+    "section": "R Contributors",
+    "text": "R Contributors\n\n\n  Ekaterina Akimova  LIMCR, Salzburg Cancer Research Institute   \n\n\n  Abraham Azar  Impact Initiatives  \n\n\n  Gabe Becker  Independent Consultant  \n\n\n  Henrik Bengtsson  University of California San Francisco  \n\n\n  Kelly Nicole Bodwin  California Polytechnic State University    \n\n\n  Elio Campitelli  Monash University   \n\n\n  Dianne Cook  Monash University  \n\n\n  Paola Corrales  R-Ladies    \n\n\n  Gergely Daroczi  Rx Studio      \n\n\n  Sebastian Fischer  LMU Munich  \n\n\n  Hannah Frick  Posit     \n\n\n  Charlie Gao  Hibiki AI Limited    \n\n\n  Tomasz Gieorgijewski     \n\n\n  Hugo Gruson  data.org    \n\n\n  Siddharth Gupta  University of Potsdam     \n\n\n  Lionel Henry  Posit  \n\n\n  Binod Jung Bogati  R User Group Nepal    \n\n\n  Fonti Kar  University Of New South Wales    \n\n\n  Ella Kaye  University of Warwick     \n\n\n  Jayani P.G. Lakshika  Monash University  \n\n\n  Kirill Müller  cynkra GmbH   \n\n\n  Hanne Oberman  Utrecht University        \n\n\n  Reiko Okamoto  Bruyère Research Institute    \n\n\n  Edzer Pebesma  Universität Münster    \n\n\n  Shannon Pileggi  The Prostate Cancer Clinical Trials Consortium     \n\n\n  Lluís Revilla  IrsiCaixa   \n\n\n  Daniel Sabanés Bové  RCONIS  \n\n\n  George Stagg  Posit    \n\n\n  Brian Terry  University of Warwick/Open University  \n\n\n  Heather Turner  University of Warwick        \n\n\n  Abhishek Ulayil  Institute of Actuaries of India  \n\n\n  Davis Vaughan  Posit  \n\n\n  Hadley Wickham  Posit  \n\n\n  Sarah Zeller  TU Dresden"
   }
 ]

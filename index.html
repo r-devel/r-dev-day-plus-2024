@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -100,6 +100,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./code-of-conduct.html"> 
 <span class="menu-text">Code of Conduct</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./participants/index.html"> 
+<span class="menu-text">Participants</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -185,7 +189,7 @@ Paris Lodron University of Salzburg (PLUS), Austria<br>
 <h2 class="anchored" data-anchor-id="who-can-take-part">Who can take part?</h2>
 <p>The sprint will involve a mixture of invited and self-nominated participants, so that we have contributors at all experience levels.</p>
 <p>The main criteria for participation is a good knowledge of R programming and a keen interest in contributing, as we hope participants continue to contribute after the event. The table below shows the type of knowledge/skills we expect participants to have</p>
-<table class="table">
+<table class="caption-top table">
 <colgroup>
 <col style="width: 36%">
 <col style="width: 63%">
@@ -223,6 +227,7 @@ Paris Lodron University of Salzburg (PLUS), Austria<br>
 <h2 class="anchored" data-anchor-id="apply-for-a-place">Apply for a place</h2>
 <p>Anyone one interested to attend the sprint is encouraged to self-nominate via the <a href="https://rfoundation.limequery.com/834329">application form</a> by <strong>Sunday March 24</strong> (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.</p>
 <p>Thanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that <a href="https://events.linuxfoundation.org/user/attend/scholarships/">diversity and need-based scholarships</a> are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is <strong>not</strong> required to participate in R Dev Day.</p>
+<p>We encourage people to self-nominate even if their attendance depends on other applications being successful (e.g.&nbsp;for useR! scholarship/presentation or visa).</p>
 <p>Participation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team.</p>
 </section>
 <section id="practicalities" class="level2">
@@ -334,6 +339,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/contributor\.r-project\.org\/r-dev-day-plus-2024");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -368,7 +391,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
