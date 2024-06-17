@@ -20,6 +20,17 @@ participant_info(name = "Tomas Kalibera",
 
 ::: {#person}
 ```{r, results = "asis"}
+participant_info(name = "Michael Lawrence",
+                 affiliation = "Genentech",
+                 pic = "michael_lawrence.jpg",
+                 alt = "Headshot of Michael Lawrence",
+                 web = "https://github.com/lawremi", # main website
+                 github = "https://github.com/lawremi")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
 participant_info(name = "Martin Mächler",
                  affiliation = "ETH Zurich",
                  pic = "martin_maechler.jpg",
@@ -247,18 +258,6 @@ participant_info(name = "Hugo Gruson",
 
 ::: {#person}
 ```{r, results = "asis"}
-participant_info(name = "Siddharth Gupta",
-                 affiliation = "University of Potsdam",
-                 web = "https://languageof.me/",
-                 link = "https://languageof.me/",
-                 github = "https://github.com/sidgupta234",
-                 linkedin = "https://www.linkedin.com/in/sidgupta234",
-                 twitter = "https://twitter.com/sidgupta234")
-```
-:::
-
-::: {#person}
-```{r, results = "asis"}
 participant_info(name = "Lionel Henry",
                  affiliation = "Posit",
                  pic = "lionel_henry.jpg",
@@ -428,6 +427,15 @@ participant_info(name = "Brian Terry",
                  alt = "Headshot of Brian Terry",
                  web = "https://github.com/BrianTerry1",
                  github = "https://github.com/BrianTerry1")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
+participant_info(name = "Konstantin Emil Thiel",
+                 affiliation = "",
+                 pic = "konstantin_thiel.jpg",
+                 alt = "Headshot of Konstantin Emil Thiel")
 ```
 :::
 
