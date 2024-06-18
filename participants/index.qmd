@@ -402,7 +402,9 @@ participant_info(name = "Daniel Sabanés Bové",
                  pic = "daniel_sabanes_bove.jpg",
                  alt = "Headshot of Daniel Sabanés Bové",
                  web = "https://rconis.com",
-                 link = "https://inferential.bio")
+                 link = "https://inferential.bio",
+                 linkedin = "https://www.linkedin.com/in/danielsabanesbove",
+                 github = "https://github.com/danielinteractive")
 ```
 :::
 
@@ -433,9 +435,11 @@ participant_info(name = "Brian Terry",
 ::: {#person}
 ```{r, results = "asis"}
 participant_info(name = "Konstantin Emil Thiel",
-                 affiliation = "",
+                 affiliation = "Paracelsus Medical University Salzburg",
                  pic = "konstantin_thiel.jpg",
-                 alt = "Headshot of Konstantin Emil Thiel")
+                 alt = "Headshot of Konstantin Emil Thiel",
+                 web = "https://www.linkedin.com/in/konstantin-emil-thiel-1a9649143/",
+                 linkedin = "https://www.linkedin.com/in/konstantin-emil-thiel-1a9649143/")
 ```
 :::
 
