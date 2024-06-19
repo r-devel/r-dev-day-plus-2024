@@ -83,6 +83,20 @@ participant_info(name = "Luke Tierney",
 
 ::: {#person}
 ```{r, results = "asis"}
+participant_info(name = "Lorena Abad",
+                 affiliation = "University of Salzburg",
+                 pic = "lorena_abad.jpg",
+                 alt = "Headshot of Lorena Abad",
+                 web = "https://loreabad6.github.io/about.html",
+                 link = "https://loreabad6.github.io/about.html",
+                 mastodon = "https://fosstodon.org/@loreabad6",
+                 github = "https://github.com/loreabad6",
+                 linkedin = "https://www.linkedin.com/in/lorena-abad")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
 participant_info(name = "Ekaterina Akimova",
                  affiliation = "LIMCR, Salzburg Cancer Research Institute",
                  pic = "ekaterina_akimova.jpg",
