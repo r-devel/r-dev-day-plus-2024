@@ -13,6 +13,14 @@ source(file.path("..", "R", "functions.R"))
 
 ::: {#person}
 ```{r, results = "asis"}
+participant_info(name = "Peter Dalgaard",
+                 affiliation = "Copenhagen Business School",
+                 web = "https://www.cbs.dk/forskning/institutter-centre/department-of-finance/medarbejdere/pdmes") # main website
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
 participant_info(name = "Tomas Kalibera",
                  affiliation = "R Core")
 ```
@@ -72,6 +80,14 @@ participant_info(name = "Paul Murrell",
 ```{r, results = "asis"}
 participant_info(name = "Luke Tierney",
                  affiliation = "University of Iowa")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
+participant_info(name = "Simon Urbanek",
+                 affiliation = "",
+                 web = NULL) # main website
 ```
 :::
 
@@ -188,6 +204,17 @@ participant_info(name = "Paola Corrales",
                  link = "https://paocorrales.github.io/ ",
                  github = "https://github.com/paocorrales",
                  mastodon = "https://fosstodon.org/@paocorrales")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
+participant_info(name = "Fernando Corrêa",
+                 affiliation = "University of São Paulo",
+                 pic = "fernando_correa.jpg",
+                 alt = "Headshot of Fernando Corrêa",
+                 web = "https://github.com /azeloc", # main website
+                 github = "https://github.com /azeloc")
 ```
 :::
 
@@ -432,6 +459,14 @@ participant_info(name = "George Stagg",
                  link = "https://gws.phd",
                  github = "https://github.com/georgestagg/",
                  linkedin = "https://www.linkedin.com/in/george-w-stagg/")
+```
+:::
+
+::: {#person}
+```{r, results = "asis"}
+participant_info(name = "Nicole Swartwood",
+                 affiliation = "",
+                 web = NULL) # main website
 ```
 :::
 
