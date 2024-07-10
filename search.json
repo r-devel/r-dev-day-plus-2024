@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "code-of-conduct.html",
-    "href": "code-of-conduct.html",
-    "title": "Code of Conduct",
-    "section": "",
-    "text": "The organizers of R Dev Day @ PLUS are dedicated to providing a harassment-free event experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).\nAll participants at R Dev Day @ PLUS are required to agree to the following code of conduct.\nThe code of conduct applies to all dev day activities including social events. It extends to event-specific exchanges on social media, for instance posts tagged with the identifier of the dev day (#RDevDayPLUS2024) and replies to such posts.\nOrganizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all."
-  },
-  {
-    "objectID": "code-of-conduct.html#expected-behaviour",
-    "href": "code-of-conduct.html#expected-behaviour",
-    "title": "Code of Conduct",
-    "section": "Expected Behaviour",
-    "text": "Expected Behaviour\nAll event participants agree to:\n\nBe considerate in language and actions, and respect the boundaries of fellow participants.\nRefrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behaviour for more details.\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled What To Do If You Witness or Are Subject To Unacceptable Behaviour for more details."
-  },
-  {
-    "objectID": "code-of-conduct.html#unacceptable-behaviour",
-    "href": "code-of-conduct.html#unacceptable-behaviour",
-    "title": "Code of Conduct",
-    "section": "Unacceptable Behaviour",
-    "text": "Unacceptable Behaviour\nBehaviour that is unacceptable includes, but is not limited to:\n\nStalking\nDeliberate intimidation\nUnwanted photography or recording\nSustained or willful disruption of talks or other events\nUse of sexual or discriminatory imagery, comments, or jokes\nOffensive comments related to age, gender, sexual orientation, disability, race or religion\nInappropriate physical contact, which can include grabbing, or massaging or hugging without consent.\nUnwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.\n\nIf you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all event attendees you should stop.\nAttendees who behave in a manner deemed inappropriate are subject to actions listed under Procedure for Code of Conduct Violations."
-  },
-  {
-    "objectID": "code-of-conduct.html#additional-requirements-for-dev-day-material",
-    "href": "code-of-conduct.html#additional-requirements-for-dev-day-material",
-    "title": "Code of Conduct",
-    "section": "Additional Requirements for Dev Day Material",
-    "text": "Additional Requirements for Dev Day Material\nPresentation slides and documents created for, or during, the dev day should not contain offensive or sexualised material."
-  },
-  {
-    "objectID": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
-    "href": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
-    "title": "Code of Conduct",
-    "section": "Procedure for Code of Conduct Violations",
-    "text": "Procedure for Code of Conduct Violations\nThe organizing team reserves the right to determine the appropriate response for all code of conduct violations. Potential responses include:\n\na formal warning to stop harassing behaviour\ncancellation or early termination of presentations or other contributions to the programme\nexpulsion from the dev day\nremoval/rejection of dev day contributions\nremoval of sponsorship acknowledgement, without return of sponsorship contribution"
-  },
-  {
-    "objectID": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
-    "href": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
-    "title": "Code of Conduct",
-    "section": "What To Do If You Witness or Are Subject To Unacceptable Behaviour",
-    "text": "What To Do If You Witness or Are Subject To Unacceptable Behaviour\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct during the dev day, even if they seem inconsequential.\nReport code of conduct violations via the incident report form. Reports will be handled by the organizing team; if the report concerns someone on the team, please contact other members of the team directly.\nWe will take all reports by R Dev Day @ PLUS participants seriously. This includes incidents outside our spaces and at any point in time. The organizing team reserve the right to exclude people from the dev day based on their past behaviour, including behaviour outside R Dev Day @ PLUS spaces and behaviour towards people who are not part of the dev day.\nWe will respect confidentiality requests for the purpose of protecting targets of harassing behaviour. We will not name victims without their affirmative consent. Correspondence is handled confidentially and deleted after the case is resolved. All data is stored securely, access will be limited to the members of the organizing team who receive the report.\nThe organizing team will provide support to victims, which may include:\n\nproviding an escort,\ncontacting the on-campus security or off-campus emergency services,\n\nor otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the event. Assistance will only be provided with affirmative consent of the victim."
-  },
-  {
-    "objectID": "code-of-conduct.html#acknowledgements",
-    "href": "code-of-conduct.html#acknowledgements",
-    "title": "Code of Conduct",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nParts of the above text are licensed CC BY-SA 4.0. Credit to SRCCON. This code of conduct was based on that developed for useR! 2018 which was a revision of the code of conduct used at previous useR!s and also drew from rOpenSci’s code of conduct."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "R Dev Day @ PLUS",
@@ -109,20 +60,69 @@
     "href": "participants/index.html",
     "title": "Participants",
     "section": "",
-    "text": "Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa"
+    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek"
   },
   {
     "objectID": "participants/index.html#r-core-team",
     "href": "participants/index.html#r-core-team",
     "title": "Participants",
     "section": "",
-    "text": "Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa"
+    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek"
   },
   {
     "objectID": "participants/index.html#r-contributors",
     "href": "participants/index.html#r-contributors",
     "title": "Participants",
     "section": "R Contributors",
-    "text": "R Contributors\n\n\n  Lorena Abad  University of Salzburg     \n\n\n  Ekaterina Akimova  LIMCR, Salzburg Cancer Research Institute   \n\n\n  Abraham Azar  Impact Initiatives  \n\n\n  Gabe Becker  Independent Consultant  \n\n\n  Henrik Bengtsson  University of California San Francisco  \n\n\n  Kelly Nicole Bodwin  California Polytechnic State University    \n\n\n  Elio Campitelli  Monash University   \n\n\n  Dianne Cook  Monash University  \n\n\n  Paola Corrales  R-Ladies    \n\n\n  Gergely Daroczi  Rx Studio      \n\n\n  Sebastian Fischer  LMU Munich  \n\n\n  Hannah Frick  Posit     \n\n\n  Charlie Gao  Hibiki AI Limited    \n\n\n  Tomasz Gieorgijewski     \n\n\n  Hugo Gruson  data.org    \n\n\n  Lionel Henry  Posit  \n\n\n  Binod Jung Bogati  R User Group Nepal    \n\n\n  Fonti Kar  University Of New South Wales    \n\n\n  Ella Kaye  University of Warwick     \n\n\n  Jayani P.G. Lakshika  Monash University  \n\n\n  Kirill Müller  cynkra GmbH   \n\n\n  Hanne Oberman  Utrecht University        \n\n\n  Reiko Okamoto  Bruyère Research Institute    \n\n\n  Edzer Pebesma  Universität Münster    \n\n\n  Shannon Pileggi  The Prostate Cancer Clinical Trials Consortium     \n\n\n  Lluís Revilla  IrsiCaixa   \n\n\n  Daniel Sabanés Bové  RCONIS    \n\n\n  George Stagg  Posit    \n\n\n  Brian Terry  University of Warwick/Open University  \n\n\n  Konstantin Emil Thiel  Paracelsus Medical University Salzburg  \n\n\n  Heather Turner  University of Warwick        \n\n\n  Abhishek Ulayil  Institute of Actuaries of India  \n\n\n  Davis Vaughan  Posit  \n\n\n  Hadley Wickham  Posit  \n\n\n  Sarah Zeller  TU Dresden"
+    "text": "R Contributors\n\n\n  Lorena Abad  University of Salzburg     \n\n\n  Ekaterina Akimova  LIMCR, Salzburg Cancer Research Institute   \n\n\n  Abraham Azar  Impact Initiatives  \n\n\n  Gabe Becker  Independent Consultant  \n\n\n  Henrik Bengtsson  University of California San Francisco  \n\n\n  Kelly Nicole Bodwin  California Polytechnic State University    \n\n\n  Elio Campitelli  Monash University   \n\n\n  Dianne Cook  Monash University  \n\n\n  Paola Corrales  R-Ladies    \n\n\n  Fernando Corrêa  University of São Paulo  \n\n\n  Gergely Daroczi  Rx Studio      \n\n\n  Sebastian Fischer  LMU Munich  \n\n\n  Hannah Frick  Posit     \n\n\n  Charlie Gao  Hibiki AI Limited    \n\n\n  Tomasz Gieorgijewski     \n\n\n  Hugo Gruson  data.org    \n\n\n  Lionel Henry  Posit  \n\n\n  Binod Jung Bogati  R User Group Nepal    \n\n\n  Fonti Kar  University Of New South Wales    \n\n\n  Ella Kaye  University of Warwick     \n\n\n  Jayani P.G. Lakshika  Monash University  \n\n\n  Kirill Müller  cynkra GmbH   \n\n\n  Hanne Oberman  Utrecht University        \n\n\n  Reiko Okamoto  Bruyère Research Institute    \n\n\n  Edzer Pebesma  Universität Münster    \n\n\n  Shannon Pileggi  The Prostate Cancer Clinical Trials Consortium     \n\n\n  Lluís Revilla  IrsiCaixa   \n\n\n  Daniel Sabanés Bové  RCONIS    \n\n\n  George Stagg  Posit    \n\n\n  Nicole Swartwood  \n\n\n  Brian Terry  University of Warwick/Open University  \n\n\n  Konstantin Emil Thiel  Paracelsus Medical University Salzburg  \n\n\n  Heather Turner  University of Warwick        \n\n\n  Abhishek Ulayil  Institute of Actuaries of India  \n\n\n  Davis Vaughan  Posit  \n\n\n  Hadley Wickham  Posit  \n\n\n  Sarah Zeller  TU Dresden"
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "The organizers of R Dev Day @ PLUS are dedicated to providing a harassment-free event experience for everyone regardless of age, gender, sexual orientation, disability, physical appearance, race, or religion (or lack thereof).\nAll participants at R Dev Day @ PLUS are required to agree to the following code of conduct.\nThe code of conduct applies to all dev day activities including social events. It extends to event-specific exchanges on social media, for instance posts tagged with the identifier of the dev day (#RDevDayPLUS2024) and replies to such posts.\nOrganizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all."
+  },
+  {
+    "objectID": "code-of-conduct.html#expected-behaviour",
+    "href": "code-of-conduct.html#expected-behaviour",
+    "title": "Code of Conduct",
+    "section": "Expected Behaviour",
+    "text": "Expected Behaviour\nAll event participants agree to:\n\nBe considerate in language and actions, and respect the boundaries of fellow participants.\nRefrain from demeaning, discriminatory, or harassing behaviour and language. Please refer to Unacceptable Behaviour for more details.\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct, even if they seem inconsequential. Please refer to the section titled What To Do If You Witness or Are Subject To Unacceptable Behaviour for more details."
+  },
+  {
+    "objectID": "code-of-conduct.html#unacceptable-behaviour",
+    "href": "code-of-conduct.html#unacceptable-behaviour",
+    "title": "Code of Conduct",
+    "section": "Unacceptable Behaviour",
+    "text": "Unacceptable Behaviour\nBehaviour that is unacceptable includes, but is not limited to:\n\nStalking\nDeliberate intimidation\nUnwanted photography or recording\nSustained or willful disruption of talks or other events\nUse of sexual or discriminatory imagery, comments, or jokes\nOffensive comments related to age, gender, sexual orientation, disability, race or religion\nInappropriate physical contact, which can include grabbing, or massaging or hugging without consent.\nUnwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information.\n\nIf you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all event attendees you should stop.\nAttendees who behave in a manner deemed inappropriate are subject to actions listed under Procedure for Code of Conduct Violations."
+  },
+  {
+    "objectID": "code-of-conduct.html#additional-requirements-for-dev-day-material",
+    "href": "code-of-conduct.html#additional-requirements-for-dev-day-material",
+    "title": "Code of Conduct",
+    "section": "Additional Requirements for Dev Day Material",
+    "text": "Additional Requirements for Dev Day Material\nPresentation slides and documents created for, or during, the dev day should not contain offensive or sexualised material."
+  },
+  {
+    "objectID": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
+    "href": "code-of-conduct.html#procedure-for-code-of-conduct-violations",
+    "title": "Code of Conduct",
+    "section": "Procedure for Code of Conduct Violations",
+    "text": "Procedure for Code of Conduct Violations\nThe organizing team reserves the right to determine the appropriate response for all code of conduct violations. Potential responses include:\n\na formal warning to stop harassing behaviour\ncancellation or early termination of presentations or other contributions to the programme\nexpulsion from the dev day\nremoval/rejection of dev day contributions\nremoval of sponsorship acknowledgement, without return of sponsorship contribution"
+  },
+  {
+    "objectID": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
+    "href": "code-of-conduct.html#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour",
+    "title": "Code of Conduct",
+    "section": "What To Do If You Witness or Are Subject To Unacceptable Behaviour",
+    "text": "What To Do If You Witness or Are Subject To Unacceptable Behaviour\nAlert a member of the organizing team if you notice someone in distress, or observe violations of this code of conduct during the dev day, even if they seem inconsequential.\nReport code of conduct violations via the incident report form. Reports will be handled by the organizing team; if the report concerns someone on the team, please contact other members of the team directly.\nWe will take all reports by R Dev Day @ PLUS participants seriously. This includes incidents outside our spaces and at any point in time. The organizing team reserve the right to exclude people from the dev day based on their past behaviour, including behaviour outside R Dev Day @ PLUS spaces and behaviour towards people who are not part of the dev day.\nWe will respect confidentiality requests for the purpose of protecting targets of harassing behaviour. We will not name victims without their affirmative consent. Correspondence is handled confidentially and deleted after the case is resolved. All data is stored securely, access will be limited to the members of the organizing team who receive the report.\nThe organizing team will provide support to victims, which may include:\n\nproviding an escort,\ncontacting the on-campus security or off-campus emergency services,\n\nor otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the event. Assistance will only be provided with affirmative consent of the victim."
+  },
+  {
+    "objectID": "code-of-conduct.html#acknowledgements",
+    "href": "code-of-conduct.html#acknowledgements",
+    "title": "Code of Conduct",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nParts of the above text are licensed CC BY-SA 4.0. Credit to SRCCON. This code of conduct was based on that developed for useR! 2018 which was a revision of the code of conduct used at previous useR!s and also drew from rOpenSci’s code of conduct."
   }
 ]
