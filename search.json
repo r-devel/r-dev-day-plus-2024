@@ -28,11 +28,18 @@
     "text": "Apply for a place\nAnyone one interested to attend the sprint is encouraged to self-nominate via the application form by Sunday March 24 (anywhere on earth). You will be asked about your experience, skills and background to help us balance participation overall.\nThanks to the R Foundation, participants can attend the R Dev Day free of charge, with refreshments and lunch provided. We regret that support is not available for travel or accommodation, but note that diversity and need-based scholarships are available for useR! 2024, which precedes the R Dev Day (deadline 17 March, 11:59 CET). Scholarship recipients would be expected to participate fully in useR! 2024, otherwise registration at useR! 2024 is not required to participate in R Dev Day.\nWe encourage people to self-nominate even if their attendance depends on other applications being successful (e.g. for useR! scholarship/presentation or visa).\nParticipation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team."
   },
   {
-    "objectID": "index.html#practicalities",
-    "href": "index.html#practicalities",
+    "objectID": "index.html#venue",
+    "href": "index.html#venue",
     "title": "R Dev Day @ PLUS",
-    "section": "Practicalities",
-    "text": "Practicalities\nThe sprint will be held in the Faculty of Natural and Life Sciences at PLUS, which is ~30 minutes from the useR! 2024 venue by public transport.\nSee the travel information on the PLUS website for more detail."
+    "section": "Venue",
+    "text": "Venue\nThe sprint will be held in rooms HS 414 and HS 415, which are on the 1st floor of the Faculty of Natural and Life Sciences at PLUS, which is ~30 minutes from the useR! 2024 venue by public transport.\nSee the travel information on the PLUS website for detail of how to reach the venue.\nFor people near Salzburg main station, we recommend to get the trolley bus line 3, which runs every 15 minutes (Google map of route, O-Bus 3 timetable). If you want to travel together, meet Heather Turner at the bus stop at 08:30 so there is time to buy a ticket for the 08:41 departure. We should arrive at the venue shortly after 9."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "R Dev Day @ PLUS",
+    "section": "Schedule",
+    "text": "Schedule\nThe rooms are available from 09:00 to 18:00. A rough schedule is:\n09:00 Arrive at the venue and make your way to the room (local professor Wolfgang Trutschnig (or a substitute) will be at the gate to direct people.\n09:15 Whole group kick-off session, starting to form small groups around the dev day issues.\n10:00 Coffee break\n10:30 Work in small groups\n12:30 Lunch in the MENSA\n13:30 Work in small groups\n14:30 Coffee break\n15:00 Continue work\n17:00 Wrap up within your group\n19:00 Option to join group for dinner (self-funded). Location TBC\nIt is understood that people may need to leave early, so we will not have a full group report back at the end of the day. Coffee and lunch breaks are covered for participants."
   },
   {
     "objectID": "index.html#organizing-team",
@@ -60,14 +67,14 @@
     "href": "participants/index.html",
     "title": "Participants",
     "section": "",
-    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek"
+    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek  University of Auckland"
   },
   {
     "objectID": "participants/index.html#r-core-team",
     "href": "participants/index.html#r-core-team",
     "title": "Participants",
     "section": "",
-    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek"
+    "text": "Peter Dalgaard  Copenhagen Business School \n\n\n  Tomas Kalibera  R Core \n\n\n  Michael Lawrence  Genentech  \n\n\n  Martin Mächler  ETH Zurich      \n\n\n  Sebastian Meyer  Friedrich-Alexander-Universität Erlangen-Nürnberg       \n\n\n  Paul Murrell  The University of Auckland   \n\n\n  Luke Tierney  University of Iowa \n\n\n  Simon Urbanek  University of Auckland"
   },
   {
     "objectID": "participants/index.html#r-contributors",
