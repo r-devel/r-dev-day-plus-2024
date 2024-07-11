@@ -13,9 +13,7 @@ source(file.path("R", "functions.R"))
 
 *Collaborate on contributions to base R!*
 
-An R Dev Day will be held as a satellite event to [useR! 2024](https://user2024.r-project.org/).
-This will be an opportunity for novice and experienced contributors to work alongside members of the R Core Team on contributions to base R.
-Interested contributors are encouraged to self-nominate by **Sunday March 24, 2024**.
+An R Dev Day will be held as a satellite event to [useR! 2024](https://user2024.r-project.org/). This will be an opportunity for novice and experienced contributors to work alongside members of the R Core Team on contributions to base R. Interested contributors are encouraged to self-nominate by **Sunday March 24, 2024**.
 
 <center>![The outside of the Faculty of Natural and Life Sciences building: a large, modern building with several glass-house style atriums.](NLW-Sommer-aussen-3-400.jpg)<br> <small>© Universität Salzburg. PLUS<br><br></small></center>
 
@@ -23,8 +21,8 @@ Interested contributors are encouraged to self-nominate by **Sunday March 24, 20
 
 Tasks will be prepared in the run-up to the event, but are likely to include:
 
- * Reviewing, analysing and fixing bugs in code or documentation reported on R’s [Bugzilla](https://bugs.r-project.org/).
- * Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
+-   Reviewing, analysing and fixing bugs in code or documentation reported on R’s [Bugzilla](https://bugs.r-project.org/).
+-   Contributing to message translations via [Weblate](https://translate.rx.studio/projects/r-project/).
 
 ## Who can take part?
 
@@ -53,13 +51,41 @@ Thanks to the R Foundation, participants can attend the R Dev Day free of charge
 
 We encourage people to self-nominate even if their attendance depends on other applications being successful (e.g. for useR! scholarship/presentation or visa).
 
-Participation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team. 
+Participation is in person by default. If you are an established contributor and wish to support the event remotely, please contact the organizing team.
 
-## Practicalities
+## Venue
 
-The sprint will be held in the [Faculty of Natural and Life Sciences](https://www.plus.ac.at/natural-and-life-sciences/?lang=en) at PLUS, which is ~30 minutes from the useR! 2024 venue by public transport.
+The sprint will be held in rooms HS 414 and HS 415, which are on the 1st floor of the [Faculty of Natural and Life Sciences](https://www.plus.ac.at/natural-and-life-sciences/?lang=en) at PLUS, which is \~30 minutes from the useR! 2024 venue by public transport.
 
-See the [travel information](https://www.plus.ac.at/natural-and-life-sciences/contact-travel-information-directions/?lang=en) on the PLUS website for more detail.
+See the [travel information](https://www.plus.ac.at/natural-and-life-sciences/contact-travel-information-directions/?lang=en) on the PLUS website for detail of how to reach the venue.
+
+For people near Salzburg main station, we recommend to get the trolley bus line 3, which runs every 15 minutes ([Google map of route](https://www.google.com/maps/dir/Salzburg,+Salzburg,+Austria/Hellbrunner+Str.+34,+5020+Salzburg,+Austria/@47.7962524,13.0245431,14z/am=t/data=!4m19!4m18!1m5!1m1!1s0x47769078f3c7634f:0xfb02fe56aad5409c!2m2!1d13.0450707!2d47.8130704!1m5!1m1!1s0x477690ee813d0841:0x16fa60c5c6daaf15!2m2!1d13.0602049!2d47.7885515!2m3!6e1!7e2!8j1720775700!3e3!5i1?entry=ttu), [O-Bus 3 timetable](https://fahrplan.oebb.at/webapp/?context=TP&SID=A%3D1%40O%3DSalzburg%20Hbf%40X%3D13045559%40Y%3D47812824%40U%3D81%40L%3D8100002%40B%3D1%40p%3D1720689459%40&ZID=A%3D1%40O%3DSalzburg%20Faistauergasse%40X%3D13064634%40Y%3D47790557%40U%3D81%40L%3D591034%40B%3D1%40p%3D1720689459%40&date=12.07.2024&time=08:15:00&timeSel=1&returnTimeSel=1&journeyProducts=7167&start=1&#!P|TP!H|653667)). If you want to travel together, meet Heather Turner at the bus stop at 08:30 so there is time to buy a ticket for the 08:41 departure. We should arrive at the venue shortly after 9.
+
+## Schedule
+
+The rooms are available from 09:00 to 18:00. A rough schedule is:
+
+09:00 Arrive at the venue and make your way to the room (local professor [Wolfgang Trutschnig](https://www.trutschnig.net/) (or a substitute) will be at the gate to direct people.
+
+09:15 Whole group kick-off session, starting to form small groups around the [dev day issues](https://github.com/r-devel/r-dev-day/issues).
+
+10:00 Coffee break
+
+10:30 Work in small groups
+
+12:30 Lunch in the MENSA
+
+13:30 Work in small groups
+
+14:30 Coffee break
+
+15:00 Continue work
+
+17:00 Wrap up within your group
+
+19:00 Option to join group for dinner (self-funded). Location TBC
+
+It is understood that people may need to leave early, so we will not have a full group report back at the end of the day. Coffee and lunch breaks are covered for participants.
 
 ## Organizing team
 
@@ -81,7 +107,8 @@ participant_info(name = "Heather Turner",
 ```
 :::
 
-::: {#person}
+<div>
+
 ```{r, results = "asis"}
 participant_info(name = "Shannon Pileggi",
                  affiliation = "The Prostate Cancer Clinical Trials Consortium",
@@ -94,10 +121,9 @@ participant_info(name = "Shannon Pileggi",
                  mastodon = "https://fosstodon.org/@PipingHotData",
                  linkedin = "https://www.linkedin.com/in/shannon-m-pileggi/")
 ```
-:::
 
+</div>
 :::
-
 
 ## Contact
 
@@ -105,7 +131,6 @@ For queries about this event, please contact [r-dev-day-plus-team\@gaggle.email]
 
 ## Sponsors
 
-[The R Foundation](https://www.r-project.org/foundation/) is sponsoring venue hire and catering for this event. 
+[The R Foundation](https://www.r-project.org/foundation/) is sponsoring venue hire and catering for this event.
 
-As this is a satellite event to useR! 2024, we encourage any companies interested in providing further sponsorship to [sponsor useR! 2024](https://events.linuxfoundation.org/user/sponsor/). 
-Alternatively, anyone can [donate to the R Foundation](https://www.r-project.org/foundation/donations.html) online.
+As this is a satellite event to useR! 2024, we encourage any companies interested in providing further sponsorship to [sponsor useR! 2024](https://events.linuxfoundation.org/user/sponsor/). Alternatively, anyone can [donate to the R Foundation](https://www.r-project.org/foundation/donations.html) online.

@@ -86,8 +86,11 @@ participant_info(name = "Luke Tierney",
 ::: {#person}
 ```{r, results = "asis"}
 participant_info(name = "Simon Urbanek",
-                 affiliation = "",
-                 web = NULL) # main website
+                 affiliation = "University of Auckland",
+                 pic = "simon_urbanek.jpg",
+                 alt = "Headshot of Simon Urbanek",
+                 web = "https://urbanek.nz", # main website
+                 github = "https://github.com/s-u")
 ```
 :::
 
