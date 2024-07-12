@@ -1,0 +1,15 @@
+{
+  "hash": "633f00553bd2ff6852932ebbb61d8816",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Resources\"\n---\n\n\n[Google Sheet](https://docs.google.com/spreadsheets/d/1fDEdON2vVcOFxfGDxL8Y4ajQeppPsmtgt5Ycd901OS4/edit?usp=sharing) with work group allocation.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
