@@ -467,14 +467,6 @@ participant_info(name = "George Stagg",
 
 ::: {#person}
 ```{r, results = "asis"}
-participant_info(name = "Nicole Swartwood",
-                 affiliation = "",
-                 web = NULL) # main website
-```
-:::
-
-::: {#person}
-```{r, results = "asis"}
 participant_info(name = "Brian Terry",
                  affiliation = "University of Warwick/Open University",
                  pic = "brian_terry.jpg",
